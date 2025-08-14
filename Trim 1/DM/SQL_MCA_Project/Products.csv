@@ -1,0 +1,21 @@
+product_id,product_name,category_id,price
+PRD001,Samsung Galaxy M14,CAT001,13999
+PRD002,Redmi Note 12,CAT001,12999
+PRD003,HP Pavilion Laptop,CAT001,55999
+PRD004,Sony Headphones,CAT001,2999
+PRD005,Cotton Saree,CAT002,1499
+PRD006,Formal Shirt,CAT002,999
+PRD007,Cotton Kurta,CAT002,899
+PRD008,Jeans,CAT002,1499
+PRD009,Prestige Cooker,CAT003,2499
+PRD010,Philips Mixer Grinder,CAT003,3499
+PRD011,Bedsheet Set,CAT003,999
+PRD012,LED Table Lamp,CAT003,699
+PRD013,Chetan Bhagat Novel,CAT004,299
+PRD014,NCERT Maths Book,CAT004,199
+PRD015,Apsara Pencil Box,CAT004,49
+PRD016,Classmate Notebook,CAT004,60
+PRD017,Himalaya Face Wash,CAT005,199
+PRD018,Dabur Chyawanprash,CAT005,349
+PRD019,Vicco Turmeric Cream,CAT005,299
+PRD020,Patanjali Aloe Vera Gel,CAT005,150

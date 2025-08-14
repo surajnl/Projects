@@ -1,0 +1,6 @@
+campaign_id,campaign_name,start_date,end_date,budget,target_segment
+CMP001,Diwali Dhamaka Sale,2023-10-15,2023-11-05,500000.0,All Customers
+CMP002,Republic Day Mega Offer,2024-01-20,2024-01-30,300000.0,All Customers
+CMP003,Holi Festive Discounts,2024-03-15,2024-03-25,250000.0,All Customers
+CMP004,Independence Day Bonanza,2024-08-10,2024-08-20,400000.0,Premium Customers
+CMP005,New Year Mega Sale,2024-12-25,2025-01-05,450000.0,All Customers
